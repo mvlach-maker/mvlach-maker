@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning to code in android studio
 - 💞️ I’m looking to collaborate on any interesting app projects
-- 📫 How to reach me ...mvlachandreas@gmail.com
+- 📫 How to reach me mvlachandreas@gmail.com
 
 <!---
 mvlach-maker/mvlach-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
