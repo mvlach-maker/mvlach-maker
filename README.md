@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvlach-maker
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning to code in android studio
+- 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on any interesting app projects
 - 📫 How to reach me mvlachandreas@gmail.com
 
